@@ -20,7 +20,6 @@ public class Castings {
         System.out.println("num5 = " + num5);
         System.out.println("num6 = " + num6);
 
-
     }
 
 

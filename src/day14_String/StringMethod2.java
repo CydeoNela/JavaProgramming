@@ -39,7 +39,7 @@ public class StringMethod2 {
 
         String s3 = "Java";
 
-        s3 = s3.replace("a", "e"); //"Jeve"
+        s3 = s3.replace("A", "e"); //"Jeve"
 
         System.out.println(s3);
 

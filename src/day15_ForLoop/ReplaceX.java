@@ -6,7 +6,7 @@ public class ReplaceX {
     public static void main(String[] args) {
         String str = "xcodeX";
 
-        String result = str.replace("x", "a").replace("X", "a");
+        String result = str.replace("x", "A").replace("X", "A");
         //  "acodeX"                                 "acodea"
 
         System.out.println(result);

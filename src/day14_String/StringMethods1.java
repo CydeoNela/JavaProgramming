@@ -36,9 +36,9 @@ public class StringMethods1 {
         String s = "Java Nova Cava Wawa orange";
         //             012345
 
-        int firstA = s.indexOf("a");
-        int lastA = s.lastIndexOf("a");
-        int secondA = s.indexOf("a ");
+        int firstA = s.indexOf("A");
+        int lastA = s.lastIndexOf("A");
+        int secondA = s.indexOf("A ");
         int thirdA = s.indexOf("a C");
         // int fourthA = s.indexOf("ava W");
         // int fourthA = s.lastIndexOf("av");
@@ -47,7 +47,7 @@ public class StringMethods1 {
         int fifthA = s.lastIndexOf("a W") ;
         int sixthA = s.lastIndexOf("aw");
         //int seventhA = s.indexOf("a o");
-        int seventhA = s.lastIndexOf("a ");
+        int seventhA = s.lastIndexOf("A ");
 
 
         System.out.println("firstA = " + firstA);
